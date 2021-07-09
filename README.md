@@ -1,0 +1,1 @@
+# static-ptr-repro2
